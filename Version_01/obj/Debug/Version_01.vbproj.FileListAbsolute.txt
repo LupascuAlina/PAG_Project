@@ -1,0 +1,11 @@
+E:\PAG\Proiect\Plata unei sume\Version_01\Version_01\bin\Debug\Version_01.exe.config
+E:\PAG\Proiect\Plata unei sume\Version_01\Version_01\obj\Debug\Version_01.Resources.resources
+E:\PAG\Proiect\Plata unei sume\Version_01\Version_01\obj\Debug\Version_01.SplashScreen1.resources
+E:\PAG\Proiect\Plata unei sume\Version_01\Version_01\obj\Debug\Version_01.vbproj.GenerateResource.Cache
+E:\PAG\Proiect\Plata unei sume\Version_01\Version_01\bin\Debug\Version_01.exe
+E:\PAG\Proiect\Plata unei sume\Version_01\Version_01\bin\Debug\Version_01.pdb
+E:\PAG\Proiect\Plata unei sume\Version_01\Version_01\bin\Debug\Version_01.xml
+E:\PAG\Proiect\Plata unei sume\Version_01\Version_01\obj\Debug\Version_01.exe
+E:\PAG\Proiect\Plata unei sume\Version_01\Version_01\obj\Debug\Version_01.xml
+E:\PAG\Proiect\Plata unei sume\Version_01\Version_01\obj\Debug\Version_01.pdb
+E:\PAG\Proiect\Plata unei sume\Version_01\Version_01\obj\Debug\Version_01.Form1.resources
